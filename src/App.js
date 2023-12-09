@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <h1>Search Weather</h1>
       <Weather />
-      <p>https://github.com/civenn/my-app</p>
+      <a href="https://github.com/civenn/my-app">GitHub</a>
     </div>
   );
 }
