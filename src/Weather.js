@@ -19,9 +19,6 @@ export default function Weather() {
       .catch((error) => {
         setError(true);
         setTemperature(null);
-        setWind(null);
-        setHumidity(null);
-        setDescription(null);
       });
   }
 
